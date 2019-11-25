@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\Users\cryst\source\repos\csproject2\csproject2\main.cpp(37,20): warning C4018:  '<': signed/unsigned mismatch
-  csproject2.vcxproj -> C:\Users\cryst\source\repos\csproject2\Debug\csproject2.exe
+C:\Users\cryst\cs303\project2\project2\csproject2\csproject2\main.cpp(37,20): warning C4018:  '<': signed/unsigned mismatch
+  csproject2.vcxproj -> C:\Users\cryst\cs303\project2\project2\csproject2\Debug\csproject2.exe
